@@ -1,0 +1,2 @@
+ntpdate -u -b bonehed.lcs.mit.edu
+setxkbmap -model abnt -layout gb -variant intl
